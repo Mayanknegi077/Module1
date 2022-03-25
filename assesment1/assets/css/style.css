@@ -1,0 +1,1516 @@
+.img1{
+    position: relative;
+    height: 41px;
+    left: 3em;
+}
+body{
+    overflow-x: hidden;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    height: 35px;
+    line-height: 33px;
+    background-color: rgb(12, 209, 199);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 0px;
+    width: 208vh;
+}
+li{
+    float: left;
+    left: 90px;
+}
+a{
+    display: block;
+    padding: 0 31px;
+    color: white;
+    text-decoration: none;
+}
+.rec{
+    position: relative;
+    left: 49em;
+    width: 16em;
+}
+.search{
+    position: relative;
+    top: -8px;
+    left: 39em;
+}
+.logo {
+    position: relative;
+    top: 0em;
+    left: 690px;
+    width: 29px;
+}
+.cart{
+    position: relative;
+    top: -4px;
+    left: 44em;
+    width: 71px;
+
+}
+.logo1{
+    position: relative;
+    left: 663px;
+    top: -6px;
+
+}
+.head2{
+    height: 80vh;
+    width: 100vw;
+
+}
+.img2{
+    position: relative;
+    height: 80vh;
+    width: 100vw;
+
+}
+h1{
+    color: white;
+    position: relative;
+    top: -9em;
+    left: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sale{
+    position: relative;
+    color: rgb(12, 209, 199);
+    top: -353px;
+    left: 266px;
+     font-family: verdana;
+}
+p{
+    position: relative;
+    top: -12em;
+    left: 3em;
+    font-family: verdana;
+    font-size: 30px;
+    color: white;
+}
+.sale1 {
+      color: rgb(12, 209, 199);
+        top: -424px;
+        left: 394px;
+}
+.sale2{
+    
+        position: relative;
+        top: -445px;
+        font-size: 13px;
+        left: 91px;
+    }
+#btn{
+    background-color: rgb(12, 209, 199);
+    position: relative;
+    top: -32em;
+    left: 7em;
+    padding: 9px;
+    border-radius: 10px;
+
+}
+.head3{
+    background-color: white;
+}
+.img3 {
+        position: relative;
+        top: 3em;
+        left: 4em;
+        height: 35vh;
+        z-index: 1;
+    }
+.img-3 {
+        position: relative;
+        top: 46px;
+        left: -1em;
+        height: 14em;
+        z-index: 0;
+        width: 316px;
+}
+
+
+ .gg{
+    position: relative;
+    top: -8em;
+    left: 4em;
+    z-index: 1;
+    font-family: monospace;
+    font-size: 20px;
+ }
+.gg1{
+        position: relative;
+        top: -12em;
+        left: 6em;
+        z-index: 1;
+        font-size: 13px;
+    
+}
+.fa-facebook-messenger:before {
+    content: "\f39f";
+    position: relative;
+    top: 135vh;
+    left: 25vw;
+    color: white;
+    font-size: 34px;
+}
+#btn1{    background-color: white;
+    color: black;
+    position: relative;
+    top: -12em;
+    z-index: 1;
+    left: 6em;
+    padding: 6px;
+    border-radius: 44px;
+}
+
+#btn-art {
+    position: relative;
+    top: -25vh;
+    left: 8vw;
+    z-index: 1;
+    border-radius: 34px;
+    height: 28px;
+}
+#btn-inner3 {
+    position: relative;
+    top: -25vh;
+    left: 8vw;
+    color: black;
+    z-index: 1;
+    height: 27px;
+    border-radius: 12px;
+}
+
+.inner{
+    position: relative;
+    left: 69px;
+
+}
+.inner1{
+    position: relative;
+    top: -390px;
+    left: 39em;
+}
+.inner2 {
+    position: relative;
+    top: -538px;
+    left: 70px;
+}
+.inner3 {
+    position: relative;
+    top: -928px;
+    left: 39em;
+
+}
+.head4{
+    background-color: lavender;
+    position: relative;
+    top: -64em;
+    height: 337px;
+}
+.bsg{
+    color: black;
+    position: relative;
+    top: 1em;
+    left: 551px;
+    font-family: 'Poppins', sans-serif;
+    transition: transform 0.8s;
+    }
+    .bsg:hover{
+        transform: scale(1.2);
+    }
+    .img4{
+        position: relative;
+        top: 52px;
+        left: 19em;
+        height: 185px;
+        transition: transform 0.8s;
+    
+    }
+    .img4:hover{
+        transform: scale(1.2);
+    }
+    .img5{
+        position: relative;
+        top: -23vh;
+        left: 39vw;
+        height: 185px;
+        transition: transform 0.8s;
+    }
+    .img5:hover{
+        transform: scale(1.2);
+    }
+    .img6{
+        position: relative;
+        top: -53vh;
+        left: 56vw;
+        height: 185px;
+        transition: transform 0.8s;
+    }
+    .img6:hover{
+        transform: scale(1.2);
+    }
+.img7{
+    
+        position: relative;
+        top: -83vh;
+        left: 74vw;
+        height: 185px;
+        transition: transform 0.8s;
+
+}
+.img7:hover{
+    transform: scale(1.2);
+}
+.img9{
+    position: relative;
+    top: -186vh;
+    left: 85vw;
+
+}
+.img8{
+    position: relative;
+    top: -192vh;
+    left: 20vw;
+
+}
+.bsp {
+    color: black;
+    position: relative;
+    top: -34em;
+    left: 551px;
+    z-index: 1;
+    font-family: 'Poppins', sans-serif;
+  
+}
+
+    
+ .center-box {
+        background-color:  #e32e6c;
+        width: 33%;
+        height: 10vh;
+        position: relative;
+        top: -63em;
+        right: -17em;
+    }
+    .img12{
+        position: relative;
+        top: -1vh;
+    }
+    #image {
+        height: 33px;
+    }
+    #giftimage{
+        position: relative;
+        left: 27vw;
+        bottom: 5vh;
+        background-color: white;
+        width: 3vw;
+        height: 6vh;
+        padding: 8px 0 0 9px;
+        border-radius: 50%;
+    }
+    #giftimage1{
+        position: relative;
+        left: 27vw;
+        bottom: -1vh;
+        background-color: white;
+        width: 3vw;
+        height: 6vh;
+        padding: 8px 0 0 9px;
+        border-radius: 50%;
+    }
+    .cp {
+        position: relative;
+        z-index: 1;
+        font-size: 19px;
+        top: 3vh;
+        left: 1vw;
+    }
+ #cp{
+    font-size: 19px;
+    position: relative;
+    top: 3vh;
+    left: 1vw;
+ }
+ #box {
+        position: relative;
+        left: 54vw;
+        top: -168vh;
+        background-color:  #eb6a05;
+    
+    }
+    .img13 {
+        height: 53vh;
+        width: 99vw;
+        position: relative;
+        top: -162vh;
+        left: -1vw;
+    }
+    .dp {
+        position: relative;
+        left: 9vw;
+        top: -196vh;
+        font-family: poppins;
+        color: black;
+        font-size: 19px;
+    }
+    #btn2 {
+        position: relative;
+        top: -232vh;
+        left: 11vw;
+        font-size: 10px;
+        background-color: #a95e5e;
+        color: white;
+        border-radius: 18px;
+    }
+    .camera {
+        position: relative;
+        top: -215vh;
+        left: 54vw;
+        height: 35vh;
+        width: 42vh;
+    }
+.dp1{
+    font-size: 50px;
+line-height: 91px;
+color: #725834;
+font-weight: 600;
+font-family: "Poppins"
+}
+.ellip {
+    position: relative;
+    top: -241vh;
+    left: 52vw;
+    height: 16vh;
+}
+
+.dis {
+    position: relative;
+    top: -256vh;
+    left: 78vw;
+    font-size: 23px;
+}
+.img14 {
+    height: 53vh;
+    width: 99vw;
+    position: relative;
+    top: -220vh;
+    left: -1vw;
+}
+.ellip1 {
+    height: 17vh;
+    position: relative;
+    top: -272vh;
+    left: 42vw;
+}
+    
+    .painting {
+        color: #0403035e;
+        position: relative;
+        top: -273vh;
+        left: 69vw;
+        font-size: 22px;
+    }
+    #btn3 {
+        position: relative;
+        top: -276vh;
+        left: 74vw;
+        background-color: #9d6a6a;
+        border-radius: 12px;
+        color: white;
+    }
+        .dis1 {
+            left: 43vw;
+            top: -302vh;
+            font-family: poppins;
+            font-size: 26px;
+        }
+        .shopp {
+            color: black;
+            position: relative;
+            top: -263vh;
+            left: 79vh;
+            font-family: poppins;
+        }
+        .free {
+            background-color: rgba(196, 151, 151, 0.39);
+            height: 30vh;
+            width: 24vw;
+            position: relative;
+            top: -256vh;
+            left: 0vh;
+        }
+        .free-exchanges{
+            position: relative;
+            top: 6vh;
+            left: 6vw;
+            font-size: 17px;
+            color: black;
+            font-family: poppins;
+        
+        }
+        .fa-recycle:before {
+            content: "\f1b8";
+            position: relative;
+            top: 5vh;
+            left: 10vw;
+            font-size: 39px;
+            color: rgb(12, 209, 199);
+        }
+
+#cup{
+    position: relative;
+    top: 5vh;
+    left: 2vw;
+    font-size: 15px;
+    color: darkslategrey;
+}
+.free1 {
+    position: relative;
+    top: -286vh;
+    left: 51vh;
+    background-color: rgba(196, 151, 151, 0.39);
+    height: 30vh;
+    width: 24vw;
+}
+.free-exchanges1{
+    position: relative;
+    top: 7vh;
+    left: 3vw;
+    font-size: 16px;
+    color: black;
+ 
+}
+#cup1
+    {
+        position: relative;
+        top: 6vh;
+        left: 3vh;
+        font-size: 17px;
+        color: black;
+    }
+    .fa-sack-dollar:before {
+        content: "\f81d";
+        position: relative;
+        top: 6vh;
+        left: 9vw;
+        font-size: 39px;
+        color: rgb(12, 209, 199);
+    }
+    .free2 {
+        position: relative;
+        top: -316vh;
+        left: 102vh;
+        background-color: rgba(196, 151, 151, 0.39);
+        height: 30vh;
+        width: 24vw;
+    }
+    .fa-envelope:before {
+        content: "\f0e0";
+        position: relative;
+        top: 5vh;
+        left: 10vw;
+        font-size: 40px;
+        color: rgb(12, 209, 199);
+    }
+    .free-exchanges2{
+        position: relative;
+    top: 7vh;
+    left: 3vw;
+    font-size: 16px;
+    color: black;
+
+    }
+    #cup2{
+        position: relative;
+        top: 7vh;
+        left: 3vw;
+        font-size: 15px;
+        color: black;
+    
+    }
+    .inbox {
+        position: relative;
+        top: -346vh;
+        left: 73vw;
+    }
+    .bottom-box {
+        background-color: rgb(12, 209, 199);
+        height: 12vh;
+        width: 97vw;
+        position: relative;
+        top: -342vh;
+        left: 0vw;
+    }
+    .news{
+        position: relative;
+        top: 4vh;
+        left: 9vw;
+        font-size: 13px;
+    
+    }
+    .content{
+        position: relative;
+        top: 2vh;
+        left: 9vw;
+        font-size: 12px;
+    
+    }
+    #email{
+        position: relative;
+        top: -5vh;
+        left: 25vw;
+        height: 30px;
+        padding: 3px;
+        width: 274px;
+    
+    }
+    #btn4{
+        position: relative;
+        top: -5vh;
+        left: 26vw;
+        background-color: black;
+        color: white;
+        padding: 9px;
+    
+    }
+    .lorem{
+        position: relative;
+        top: -14vh;
+        left: 131vh;
+        font-size: 13px;
+    }
+    .social{
+        position: relative;
+    top: -12vh;
+    left: 62vw;
+    font-size: 14px;
+
+    }
+    .fa-facebook-f:before {
+        content: "\f39e";
+        position: relative;
+        top: -21vh;
+        left: 79vw;
+        font-size: 28px;
+        color: white;
+    }
+    .fa-google-plus-g:before {
+        content: "\f0d5";
+        position: relative;
+        top: -21vh;
+        left: 80vw;
+        font-size: 30px;
+        color: white;
+    }
+    .fa-twitter-square:before {
+        content: "\f081";
+        position: relative;
+        top: 185vh;
+        left: -47vw;
+        font-size: 18px;
+        color: black;
+    }
+    .fa-wifi-3:before, .fa-wifi-strong:before, .fa-wifi:before {
+        content: "\f1eb";
+        position: relative;
+        top: -21vh;
+        left: 82vw;
+        font-size: 31px;
+        color: white;
+    }
+    .fa-google-plus-square:before {
+        content: "\f0d4";
+        position: relative;
+        top: 135vh;
+        left: 26vw;
+        font-size: 32px;
+        color: white;
+    }
+    .contact {
+        color: black;
+        position: relative;
+        top: -332vh;
+        left: 9vw;
+        font-size: 17px;
+    }
+    .add {
+        position: relative;
+        color: #00000073;
+        top: -330vh;
+        left: 9vw;
+        font-size: 11px;
+    }
+    .phone-number {
+        position: relative;
+        top: -328vh;
+        left: 9vw;
+        color: #0000008c;
+        font-size: 14px;
+        font-family: poppins;
+    }
+    .femail {
+        position: relative;
+        top: -327vh;
+        left: 9vw;
+        font-size: 14px;
+        color: #0000007d;
+    }
+    .info {
+        position: relative;
+        top: -352vh;
+        left: 36vw;
+        color: black;
+        font-size: 18px;
+        font-family: poppins;
+    }
+    .info1 {
+        position: relative;
+        top: -352vh;
+        left: 36vw;
+        color: #00000075;
+        font-size: 19px;
+    }
+    .account {
+        position: relative;
+        top: -404vh;
+        left: 53vw;
+        color: black;
+        font-size: 18px;
+    }
+    .acc {
+        position: relative;
+        top: -404vh;
+        left: 53vw;
+        color: #0000009e;
+        font-size: 18px;
+    }
+    .gallery {
+        position: relative;
+        top: -422vh;
+        left: 77vw;
+        color: black;
+        font-size: 12px;
+    }
+    .follower {
+        position: relative;
+        top: -401vh;
+        left: 9vw;
+        color: black;
+        font-size: 18px;
+        font-family: poppins;
+    }
+    .fa-brands, .fab {
+        font-family: "Font Awesome 6 Brands";
+        font-weight: 400;
+        position: relative;
+        left: 54vw;
+        top: -156vh;
+    }
+    .fa-facebook-square:before {
+        content: "\f082";
+        position: relative;
+        top: -268vh;
+        left: -45vw;
+        font-size: 18px;
+    }
+    .fa-twitter-square:before {
+        content: "\f081";
+        position: relative;
+        top: -268vh;
+        left: -43vw;
+        font-size: 18px;
+    }
+    .fa-youtube:before {
+        content: "\f167";
+        position: relative;
+        top: -268vh;
+        left: -41vw;
+        font-size: 18px;
+    }
+    .fa-google-plus:before {
+        content: "\f2b3";
+        position: relative;
+        top: -268vh;
+        left: -39vw;
+        font-size: 18px;
+    }
+    .fa-instagram:before {
+        content: "\f16d";
+        position: relative;
+        top: -268vh;
+        left: -37vw;
+        font-size: 18px;
+    }
+    .picture {
+        position: relative;
+        top: -426vh;
+        left: 62vw;
+    }
+    hr {
+        position: relative;
+        top: -408vh;
+        left: 0vw;
+        width: 203vh;
+        color: #0000001a;
+    }
+    .copyright {
+        position: relative;
+        top: -402vh;
+        left: 9vw;
+        color: rgba(0, 0, 0, 0.411);
+        font-size: 18px;
+    }
+    .footerimage {
+        position: relative;
+        top: -409vh;
+        left: 41vw;
+    }
+    .chat {
+        background-color: #0000ff66;
+        height: 6vh;
+        width: 17vw;
+        position: relative;
+        top: -416vh;
+        left: 67vw;
+    }
+    .footerimagelogo {
+        position: relative;
+        top: -410vh;
+        left: 30vw;
+    }
+    h1.chatnow {
+        position: relative;
+        top: 2vh;
+        left: 1vw;
+        font-size: 11px;
+    }
+    .fa-comment-alt:before, .fa-message:before {
+        content: "\f27a";
+        position: relative;
+        top: -1vh;
+        left: 14vw;
+        color: cornsilk;
+    }
+    /* 1792x828px at 326ppi */
+@media(max-width:420px){ 
+    .img2 {
+        width: 45vh;
+        height: 21vh;
+    }
+    #sale-upto
+        {
+            position: relative;
+            top: -17vh;
+            left: 8vw;
+            font-size: 16px;
+        }
+.sale{
+    
+        position: relative;
+        top: -20vh;
+        left: 29vw;
+        font-size: 12px;
+}
+#special-gift {
+    position: relative;
+    top: -21vh;
+    left: 8vw;
+    font-size: 16px;
+}
+.sale1
+    {
+        position: relative;
+        top: -24vh;
+        left: 47vw;
+        font-size: 1vh;
+    }
+.sale2
+    {
+        position: relative;
+        top: -24vh;
+        left: 8vw;
+        font-size: 5px;
+    }
+    ul {
+        width: 102%;
+        font-size: 11px;
+        height: 65px;
+    }
+    
+        .img1 {
+            position: relative;
+            top: 2vh;
+            left: 5vw;
+        }
+        .rec {
+            position: relative;
+            top: 1vh;
+            left: 5vw;
+            width: 140px;
+        }
+        .search {
+            height: 10px;
+            position: relative;
+            top: 5px;
+            left: -78px;
+        }
+        #btn {
+            position: relative;
+            top: -23vh;
+            left: 7vw;
+        }
+        .logo {
+            position: relative;
+            top: 1vh;
+            left: -9vw;
+            width: 14px;
+        }
+        .logo1 {
+            position: relative;
+            top: 1vh;
+            left: -13vw;
+            height: 11px;
+        }
+            .cart {
+                position: relative;
+                top: -12px;
+                left: 83vw;
+                width: 33px;
+            }
+            .img3 {
+                position: relative;
+                top: -57vh;
+                left: -10vw;
+                width: 25vh;
+                height: 22vh;
+            }
+            .img-3 {
+                position: relative;
+                top: -57vh;
+                left: -21vw;
+                height: 22vh;
+                width: 18vh;
+            }
+            .gg {
+                position: relative;
+                top: -79vh;
+                left: -5vw;
+                font-size: 19px;
+            }
+            .gg1 {
+                position: relative;
+                top: -80vh;
+                left: -5vw;
+                font-size: 10px;
+            }
+            #btn1 {
+                position: relative;
+                top: -80vh;
+                left: 1vw;
+            }
+       
+            #print-gallery {
+                position: relative;
+                top: -12vh;
+                left: -144vw;
+            }
+            #wall-gallery {
+                position: relative;
+                top: -6vh;
+                left: -144vw;
+            }
+            #prints-gallery {
+                position: relative;
+                top: -12vh;
+                left: -158vw;
+            }
+            #walls-gallery {
+                position: relative;
+                top: -6vh;
+                left: -158vw;
+            }
+            #art-gallery {
+                position: relative;
+                top: -33vh;
+                left: -140vw;
+                font-size: 19px;
+            }
+            #arts-gallery {
+                position: relative;
+                top: -33vh;
+                left: -140vw;
+                font-size: 10px;
+            }
+            #wpaper {
+                position: relative;
+                top: -27vh;
+                left: -140vw;
+                font-size: 20px;
+            }
+            #wparagraph {
+                position: relative;
+                top: -27vh;
+                left: -141vw;
+            }
+            .bsg {
+                position: relative;
+                top: 2vh;
+                left: 18vw;
+                transition: transform 0.8s;
+            }
+            .bsg:hover{
+                transform: scale(1.2);
+            }
+            .head4 {
+                position: relative;
+                top: -125vh;
+                left: 1vw;
+                width: 103vw;
+                height: 46vh;
+            }
+            .img4 {
+                position: relative;
+                top: 1vh;
+                left: 10vw;
+                height: 17vh;
+            }
+            .img5 {
+                position: relative;
+                top: -17vh;
+                left: 53vw;
+                height: 17vh;
+            }
+            .img6 {
+                position: relative;
+                top: -16vh;
+                left: 53vw;
+                height: 17vh;
+            }
+            
+                .img7 {
+                    position: relative;
+                    top: -33vh;
+                    left: 10vw;
+                    height: 17vh;
+                }
+                #mydiv {
+                    position: relative;
+                    top: -130vh;
+                }
+                .bsp {
+                    position: relative;
+                    top: -127vh;
+                    left: 16vw;
+                }
+                .center-box {
+                    position: relative;
+                    top: -130vh;
+                    left: 3vw;
+                    width: 182px;
+                    height: 49px;
+                }
+                .cp {
+                    position: relative;
+                    top: 2vh;
+                    left: 1vw;
+                    font-size: 13px;
+                }
+                #image {
+                    position: relative;
+                    top: 0vh;
+                    left: -1vw;
+                }
+                #giftimage {
+                    position: relative;
+                    left: 33vw;
+                    bottom: 3vh;
+                    background-color: white;
+                    width: 8vw;
+                    height: 4vh;
+                    padding: 8px 0 0 9px;
+                    border-radius: 50%;
+                }
+                #box {
+                    position: relative;
+                    top: -137vh;
+                    left: 49vw;
+                }
+                #cp {
+                    position: relative;
+                    top: 2vh;
+                    left: 1vw;
+                    font-size: 13px;
+                }
+                .copyright {
+                    font-size: 10px;
+                    position: relative;
+                    left: 1vw;
+                    top: -271vh;
+                }
+                .footerimage {
+                    height: 17px;
+                    position: relative;
+                    top: -276vh;
+                    left: 15vh;
+                }
+                .chat {
+                    position: relative;
+                    top: -279vh;
+                    left: 57vw;
+                    width: 145px;
+                    height: 23px;
+                }
+                .fa-comment-alt:before, .fa-message:before {
+                    content: "\f27a";
+                    position: relative;
+                    top: -1vh;
+                    left: 30vw;
+                }
+                .info {
+                    position: relative;
+                    top: -251vh;
+                    left: 32vw;
+                    font-size: 10px;
+                }
+                .contact {
+                    position: relative;
+                    top: -244vh;
+                    left: 2vw;
+                    font-size: 10px;
+                }
+                .add {
+                    position: relative;
+                    top: -244vh;
+                    left: 2vw;
+                    font-size: 5px;
+                }
+                .phone-number {
+                    position: relative;
+                    left: 2vw;
+                    top: -244vh;
+                    font-size: 6px;
+                }
+                .femail {
+                    position: relative;
+                    top: -244vh;
+                    left: 2vw;
+                    font-size: 6px;
+                }
+                .img13{
+                    width: 97vw;
+                 height: 35vh;
+                 position: relative;
+                 top: -135vh;
+                 left: 1vw;
+                }
+                .img14 {
+                    position: relative;
+                    top: -175vh;
+                    left: -2vw;
+                    width: 100vw;
+                    height: 35vh;
+                }
+                .camera {
+                    position: relative;
+                    top: -171vh;
+                    left: 44vw;
+                    width: 76px;
+                    height: 211px;
+                }
+                .dp {
+                    position: relative;
+                    top: -159vh;
+                    left: 3vw;
+                    font-size: 18px;
+                }
+                #btn2 {
+                    top: -183vh;
+                }
+              .painting{
+                position: relative;
+                top: -216vh;
+                left: 59vw;
+                font-size: 14px;
+                color: black;
+            }
+            #btn3{
+                position: relative;
+                top: -217vh;
+                left: 65vw;
+            }
+            .shopp{
+                position: relative;
+                top: -191vh;
+                left: 30vw;
+                font-size:20px ;
+            
+            }
+            .free-exchanges{
+                position: relative;
+                top: 5vh;
+                left: 4vw;
+                width: 185px;
+            
+            }
+                .ellip {
+                    position: relative;
+                    top: -192vh;
+                    left: 39vw;
+                    width: 10vw;
+                    height: 5vh;
+                }
+                .dis {
+                    top: -197vh;
+                    left: 75vw;
+                    font-size: 10px;
+                }
+                .ellip1 {
+                    width: 10vw;
+                    height: 5vh;
+                    top: -207vh;
+                    left: 40vw;
+                }
+                .dis1 {
+                    top: -219vh;
+                    left: 41vw;
+                    font-size: 11px;
+                }
+                .bottom-box {
+                    top: -245vh;
+                    width: 90vw;
+                    height: 7vh;
+                }
+                .news {
+                    font-size: 6px;
+                    top:3vh;
+                    left: 3vw;
+                }
+                .content {
+                    left: 3vw;
+                    font-size: 5px;
+                    top: 3vh;
+                }
+                #email {
+                    width: 113px;
+                    height: 13px;
+                    top: -1vh;
+                }
+                #btn4 {
+                    width: 38px;
+                    height: 1px;
+                    font-size: 4px;
+                    top: -1vh;
+                }
+                .social{
+                    position: relative;
+                    top: -4vh;
+                    left: 70vw;
+                    font-size: 7px;
+                
+                }
+                    .lorem {
+                        position: relative;
+                        top: -4vh;
+                        left: 32vh;
+                        font-size: 6px;
+                    }
+                    .follower {
+                        top: -270vh;
+                        left: 2vw;
+                        font-size: 10px;
+                    }
+                    .fa-facebook-square:before {
+                        content: "\f082";
+                        position: relative;
+                        top: -120vh;
+                        left: -52vw;
+                        font-size: 10px;
+                    }
+                    .fa-twitter-square:before {
+                        content: "\f081";
+                        position: relative;
+                        top: -120vh;
+                        left: -52vw;
+                        font-size: 10px;
+                    }
+                    .fa-youtube:before {
+                        content: "\f167";
+                        position: relative;
+                        top: -120vh;
+                        left: -52vw;
+                        font-size: 10px;
+                    }
+                    .fa-google-plus:before {
+                        content: "\f2b3";
+                        position: relative;
+                        top: -120vh;
+                        left: -52vw;
+                        font-size: 10px;
+                    }
+                    .fa-instagram:before {
+                        content: "\f16d";
+                        position: relative;
+                        top: -120vh;
+                        left: -52vw;
+                        font-size: 10px;
+                    }
+                    .info1 {
+                        position: relative;
+                        top: -251vh;
+                        left: 33vw;
+                        color: #00000075;
+                        font-size: 8px;
+                    }
+                        
+                    .account {
+                        position: relative;
+                        top: -268vh;
+                        left: 53vw;
+                        color: black;
+                        font-size: 10px;
+                        font-size: 10px;
+                    }
+                    .acc {
+                        position: relative;
+                        top: -268vh;
+                        left: 53vw;
+                        color: #0000009e;
+                        font-size: 10px;
+                    }
+                    .gallery {
+                        position: relative;
+                        top: -275vh;
+                        left: 77vw;
+                        color: black;
+                        font-size: 10px;
+                    }
+                    .picture {
+                        position: relative;
+                        top: -278vh;
+                        left: 60vw;
+                        width: 10vw;
+                        height: 7vh;
+                    }
+                    hr {
+                        position: relative;
+                        top: -271vh;
+                        left: -2vw;
+                        width: 44vh;
+                        color: #0000001a;
+                    }
+                    h1.chatnow {
+                        position: relative;
+                        top: 1vh;
+                        left: 1vw;
+                        font-size: 7px;
+                    }
+                    .free {
+                        background-color: rgba(196, 151, 151, 0.39);
+                        height: 30vh;
+                        width: 44vw;
+                        position: relative;
+                        top: -189vh;
+                        left: 0vh;
+                    }
+                    
+            
+                    .fa-recycle:before {
+                        content: "\f1b8";
+                        position: relative;
+                        top: 4vh;
+                        left: 15vw;
+                        font-size: 39px;
+                        color: rgb(12, 209, 199);
+                    }
+                    .free1 {
+                        position: relative;
+                        top: -219vh;
+                        left: 21vh;
+                        background-color: rgba(196, 151, 151, 0.39);
+                        height: 30vh;
+                        width: 47vw;
+                    }
+                    .fa-sack-dollar:before {
+                        content: "\f81d";
+                        position: relative;
+                        top: 4vh;
+                        left: 18vw;
+                        font-size: 39px;
+                        color: rgb(12, 209, 199);
+                    }
+                    .free-exchanges1 {
+                        position: relative;
+                        top: 6vh;
+                        left: 1vw;
+                        font-size: 15px;
+                        color: black;
+                    }
+                    .inbox {
+                        position: relative;
+                        top: -247vh;
+                        left: 0vw;
+                        width: 180px;
+                        height: 268px;
+                    }
+                    #evouchers-inbox {
+                        top: -217vh;
+                        left: 45vw;
+                        width: 194px;
+                        height: 270px;
+                    }
+                    #btn-art {
+                        font-size: 14px;
+                        color: black;
+                        position: relative;
+                        top: -33vh;
+                        left: -132vw;
+                        z-index: 1;
+                        border-radius: 31px;
+                        width: 87px;
+                        height: 32px;
+                    }
+                    #btn-inner3 {
+                        position: relative;
+                        top: -27vh;
+                        left: -132vw;
+                        height: 31px;
+                        border-radius: 16px;
+                        z-index: 1;
+                        color: black;
+                    }
+                    .fa-facebook-messenger:before {
+                        content: "\f39f";
+                        position: relative;
+                        top: 152vh;
+                        left: 17vw;
+                        color: white;
+                        font-size: 16px;
+                    }
+                    .footerimagelogo {
+                        position: relative;
+                        top: -275vh;
+                        left: 12vw;
+                        height: 41px;
+                    }
+                    .fa-google-plus-square:before {
+                        content: "\f0d4";
+                        position: relative;
+                        top: 152vh;
+                        left: 19vw;
+                        font-size: 16px;
+                        color: white;
+                    }
+                    .fa-wifi-3:before, .fa-wifi-strong:before, .fa-wifi:before {
+                        content: "\f1eb";
+                        position: relative;
+                        top: -4vh;
+                        left: 76vw;
+                        font-size: 13px;
+                        color: white;
+                    }
+             
+                 }
+
+
+                 @media only screen and (max-width: 768px){
+                    ul {
+                        margin: 0px;
+                        padding: 0px;
+                        list-style: none;
+                        height: 35px;
+                        line-height: 33px;
+                        background-color: rgb(12, 209, 199);
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                        font-size: 15px;
+                        position: relative;
+                        top: 0px;
+                        width: 78vh;
+                    }
+                    .img2 {
+                        position: relative;
+                        height: 65vh;
+                        width: 103vw;
+                    }
+                    h1 {
+                        color: white;
+                        position: relative;
+                        top: -9em;
+                        left: 34px;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    }
+                    .sale {
+                        position: relative;
+                        color: rgb(12, 209, 199);
+                        top: -353px;
+                        left: 218px;
+                        font-family: verdana;
+                    }
+                   
+                    p {
+                        position: relative;
+                        top: -12em;
+                        left: 1em;
+                        font-family: verdana;
+                        font-size: 30px;
+                        color: white;
+                    }
+                    #btn {
+                        background-color: rgb(12, 209, 199);
+                        position: relative;
+                        top: -32em;
+                        left: 1em;
+                        padding: 9px;
+                        border-radius: 10px;
+                    }
+                    .sale2 {
+                        position: relative;
+                        top: -445px;
+                        font-size: 12px;
+                        left: 32px;
+                    }
+                    .sale1 {
+                        color: rgb(12, 209, 199);
+                        top: -424px;
+                        left: 347px;
+                    }
+                    .search {
+                        position: relative;
+                        top: -12px;
+                        left: 5em;
+                    }
+                    .rec {
+                        position: relative;
+                        left: 17em;
+                        width: 16em;
+                        bottom: 7px;
+                    }
+                    .logo {
+                        position: relative;
+                        top: -8px;
+                        left: 174px;
+                        width: 29px;
+                    }
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                }
+
+
+
+
+
